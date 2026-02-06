@@ -2,6 +2,9 @@ BIN/HEX File Converter
 ver. 1.0.0.0 ("alpha" release)
 Build Year: 2023
 
+PS: Net Framework 7 required
+https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+
 Can convert any file to to a .bin or .hex format and back to its origin format ("experimental" and only for a few specific File formats)
 
 "Tester" Key 
