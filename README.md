@@ -10,27 +10,28 @@ Can convert any file to to a .bin or .hex format and back to its origin format (
 "Tester" Key 
 Serial install key: 5612-6761-1988-6074
 
-• Major Update comes soon! v1.1
-  - .NET10 update
-  - Settings
-      - "NoDataPreview" Status as Lable, Symbol, Lable+Symbol, GIF animation
-      - Save Settings
-      - Reset Settings
-  -Stability updates:
-    -improved UI
-    -fixed Messages
-    -file import recognition improved
-    .......and more..........
+**• <ins>Major Update comes soon! v1.1</ins>**
+- .NET10 update
+- Settings
+  - "NoDataPreview" Status as Label, Symbol, Lable+Symbol, GIF animation
+  - Save Settings
+  - Reset Settings
+- Stability updates
+  - improved UI
+  - fixed Messages
+  - file import recognition improved
+  - .......and more..........
 
-  • Future Plans:
-    - simple image inspector integration
-    - File Analyser
-      - quick analysis
-      - extendet quick analysis
-      - full analysis
-      - file evaluation report
-      - Database Expansion, inclusive for the back convert Method
+**• <ins>Future Plans:</ins>**
+- simple image inspector integration
+- File Analyser
+  - quick analysis
+  - extendet quick analysis
+  - full analysis
+  - file evaluation report
+  - Database Expansion, inclusive for the back convert Method
 
 Pics: ver. 1.0.0.0 ("alpha" release)
+
 ![Window 2026-02-14 23-36-08](https://github.com/user-attachments/assets/3923cb2c-a9aa-4c99-83e5-7f869ecdfbcf)
 ![Window 2026-02-14 23-37-08](https://github.com/user-attachments/assets/28ff4fa6-3219-47cf-9410-344d9c3e36c3)
