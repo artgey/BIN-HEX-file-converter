@@ -1,3 +1,5 @@
+Future Update Status: https://github.com/artgey/BIN-HEX-file-converter/milestones
+
 BIN/HEX File Converter
 ver. 1.0.0.0 ("alpha" release)
 Build Year: 2023
