@@ -19,8 +19,8 @@ Can convert any file to to a .bin or .hex format and back to its origin format (
 
 **Pics: ver. 1.0.0.0 ("alpha" release)**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/28ff4fa6-3219-47cf-9410-344d9c3e36c3" width="80%">
-  <img src="https://github.com/user-attachments/assets/3923cb2c-a9aa-4c99-83e5-7f869ecdfbcf" width="80%">
+  <img src="https://github.com/user-attachments/assets/28ff4fa6-3219-47cf-9410-344d9c3e36c3" width="100%">
+  <img src="https://github.com/user-attachments/assets/3923cb2c-a9aa-4c99-83e5-7f869ecdfbcf" width="100%">
 </p>
 
 **Pics: ver. 1.1.0.0**
