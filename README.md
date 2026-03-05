@@ -6,7 +6,7 @@ Can convert any file to to a .bin or .hex format and back to its origin format (
 
 "Tester" Key 
 - Serial install key: "**5612-6761-1988-6074**" for **ver. 1.0.0.0** ("alpha" release), Build Year: 2023
-- Serial install key: "**4390-0467-9327-2273**" for **ver. 1.1.0.0**
+- Serial install key: "**4390-0467-9327-2273**" for **ver. 1.1.0.0** ("beta" release)
 
 **• <ins>Future Plans:</ins>**
 - simple image inspector integration
