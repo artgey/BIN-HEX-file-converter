@@ -9,7 +9,7 @@ Can convert any file to to a .bin or .hex format and back to its origin format (
 - Serial install key: "**4390-0467-9327-2273**" for **ver. 1.1.0.0** ("beta" release)
 
   <br>
-**Preview: ver. 1.2** Major News: Blackmagic .braw Recovery, Simple Image Inspector
+**Preview: ver. 1.2** **[Coming Soon]** Major News: Blackmagic .braw Recovery, Simple Image Inspector
  
   
 <div align="center">
@@ -19,7 +19,7 @@ Can convert any file to to a .bin or .hex format and back to its origin format (
 https://www.blackmagicdesign.com/
 </div>
 
-**Recovery:**
+**Recovery/Carver:**
 **Issue:** https://github.com/artgey/BIN-HEX-file-converter/issues/22
 <p align="center"><img src="https://github.com/user-attachments/assets/d938e0d9-399f-4984-9acd-9e3021f7bccc" width="80%" /></p>
 
