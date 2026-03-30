@@ -24,7 +24,7 @@ https://www.blackmagicdesign.com/
 **Issue:** https://github.com/artgey/BIN-HEX-file-converter/issues/22
 <p align="center"><img src="https://github.com/user-attachments/assets/d938e0d9-399f-4984-9acd-9e3021f7bccc" width="80%" /></p>
 
-
+<p align="center"><img src="https://i.imgur.com/i0ATyUp.gif" width="80%" /></p>
 
 **Simple Image Inspector:**
 **Issue:** https://github.com/artgey/BIN-HEX-file-converter/issues/21
