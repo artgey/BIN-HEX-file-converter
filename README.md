@@ -10,7 +10,7 @@ Can convert any file to to a .bin or .hex format and back to its origin format (
 - Serial install key: "**7465-9322-6567-7170-9701**" for **ver. 1.2.0** ("beta" release)
 
   <br>
-**Preview: ver. 1.2** **[Coming Soon]** Major News: Blackmagic .braw Recovery, Simple Image Inspector
+**Preview: ver. 1.2** Major News: Blackmagic .braw Recovery, Simple Image Inspector
  
   
 <div align="center">
