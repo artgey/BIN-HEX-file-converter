@@ -27,7 +27,7 @@ Showcase example Video: https://youtu.be/yrL7kO8v44s
 <br><br>
 
 **Simple Image Inspector:**
-**Issue:** https://github.com/artgey/BIN-HEX-file-converter/issues/21
+**Issue:** https://github.com/artgey/BIN-HEX-file-converter/issues/21, https://github.com/artgey/BIN-HEX-file-converter/issues/30
 <br>
 <p align="center"><img src="https://github.com/user-attachments/assets/925d3d9e-87f9-4a41-816f-bf48dda2b045" width="80%" /></p>
 
