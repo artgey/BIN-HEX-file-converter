@@ -1,6 +1,6 @@
-Future Update Status: https://github.com/artgey/Geyer/projects?query=is%3Aopen
-
 "Geyer" can convert any file to to a .bin, .hex or .rom format and back to its origin format ("experimental" and only for a few specific File formats)
+
+Future Update Status and planned Release Dates: https://github.com/artgey/Geyer/projects?query=is%3Aopen
 
 
 
